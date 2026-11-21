@@ -8,13 +8,23 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/AlexBromum/Blindness",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "previous_releases": [
+    {
+      "version": "1.0.0",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/AlexBromum/Blindness/archive/refs/heads/main.zip",
+        "commit_sha": "1e61a470f22083650d2f2b4842edcbc4a13c1616"
+      }
+    }
+  ],
   "dependencies": {
     "bn": ">=v0.12.0"
   },
   "source": {
     "type": "github_archive",
-    "url": "https://github.com/AlexBromum/Blindness/archive/refs/heads/main.zip",
+    "url": "https://github.com/AlexBromum/Blindness/archive/refs/tags/v1.0.1.zip",
     "commit_sha": "1e61a470f22083650d2f2b4842edcbc4a13c1616"
   },
   "categories": [
@@ -25,5 +35,5 @@
   "autoupdate": {
     "type": "tag"
   },
-  "last_updated": "2026-07-12T02:06:11Z"
+  "last_updated": "2026-11-21T05:20:59.834Z"
 }
