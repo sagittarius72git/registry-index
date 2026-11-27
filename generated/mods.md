@@ -240,8 +240,8 @@ Stuff from the Core Region, all the wa | |
 roughly half, instead of one-sixth. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
-[Filthy Clothing](https://github.com/WishDuck/Cataclysm-BN-Mods/archive/refs/tags/13.0.10.zip)
-| Wishduck,UNOwenWasMe | 13.0.10 | Filthy clothing restoration mod. | |
+[Filthy Clothing](https://github.com/WishDuck/Cataclysm-BN-Mods/archive/refs/tags/13.0.11.zip)
+| Wishduck,UNOwenWasMe | 13.0.11 | Filthy clothing restoration mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [FinalFantasyMod](https://github.com/Baratan-creates/BN-FinalFantasyMod/archive/refs/heads/main.zip)
